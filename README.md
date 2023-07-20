@@ -19,4 +19,3 @@ if __name__ == '__main__':
 
 ## TODO
 1. 打磨summary prompt
-2. 添加requirement文件
